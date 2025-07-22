@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Social Media Post Classifier",
+      "imageSrc": "projects/social.png",
+      "description": "Creating this project using(FLASK) library of python used for backend purpose & by using HTML,CSS & javascript the whole frontend part of project was finalised.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Satyam8542/Social-Media-Classifier-Project"
+    },
+    {
+      "title": "Personal Portfolio Website",
+      "imageSrc": "projects/portfolio.png",
+      "description": "Design and develop a personal portfolio website showcasing your skills, projects and achivements.Use HTML,CSS,Javascript,React & NodeJS to create a responsive and visually appaling website.",
+      "skills": ["React", "Express", "Node", "Sass"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "E Commerce Website",
+      "imageSrc": "projects/ecom.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]

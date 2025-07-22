@@ -1,0 +1,141 @@
+@import "../../vars.css";
+.container {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 49px;
+  z-index: 1;
+  margin-left: 10%;
+  margin-right: 10%;
+  background: linear-gradient(to right, #576CB9 10%, #0b2447 70%);
+  clip-path: polygon(0 8%, 100% 0%, 100% 92%, 0% 100%);
+}
+
+.title {
+  font-size: 72px;
+  margin-bottom: 1rem;
+  color: white;
+  padding: 10%;
+}
+
+.educationList {
+  list-style: none;
+  padding: 0;
+}
+
+.educationItem {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 2rem;
+  gap: 1rem;
+}
+
+.logo {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+}
+
+.details {
+  flex: 1;
+}
+
+.degree {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 0.3rem;
+}
+
+.institution {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.institution:hover {
+  text-decoration: underline;
+}
+
+.duration {
+  font-size: 0.9rem;
+  color: #777;
+}
+
+.description {
+  margin-top: 0.5rem;
+}
+/* Container and layout */
+.container {
+  padding: 2rem 1rem;
+}
+
+.title {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.educationList {
+  list-style: none;
+  padding: 0;
+}
+
+.educationItem {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 2rem;
+  gap: 1rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.logo {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+}
+
+.details {
+  flex: 1;
+}
+
+.degree {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 0.3rem;
+  color: azure;
+}
+
+.institution {
+  color: #007bff;
+  text-decoration: none;
+  margin-left: 4px;
+}
+
+.institution:hover {
+  text-decoration: underline;
+}
+
+/* Word-by-word animation */
+.word {
+  display: inline-block;
+  opacity: 1;
+  transform: translateX(0px);
+  transition: transform 0.4s ease, opacity 0.4s ease;
+}
+
+/* Trigger animation on hover */
+.educationItem:hover .word {
+  opacity: 1;
+  transform: translateX(20px);
+}
+
+.duration {
+  font-size: 0.9rem;
+  color: #777;
+  margin-top: 0.2rem;
+}
+
+.description {
+  margin-top: 0.5rem;
+  color: azure;
+}

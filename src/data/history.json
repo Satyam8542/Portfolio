@@ -1,0 +1,43 @@
+[
+    {
+      "role": "Python 3 Programming",
+      "organisation": "Coursera",
+      "experiences": ["Basics,Data Collection & processing with Python,Function & Files."],
+      "imageSrc": "history/coursera.png",
+      "href": "https://www.88gravity.com/"
+    },
+    {
+      "role": "C & C++",
+      "organisation": "Coursera",
+      "experiences": ["Programming Fundamentals,Structured Programming"],
+      "imageSrc": "history/coursera.png",
+      "href": "https://www.88gravity.com/"
+    },
+    {
+      "role": "Advance Topics in C",
+      "organisation": "Infosys Springboard",
+      "experiences": [
+        "Worked on component library"
+      ],
+      "imageSrc": "history/sp.avif",
+      "href": "https://www.88gravity.com/"
+    },
+    {
+      "role": "ReactJS, NodeJS & Javascript",
+      "organisation": "Infosys Springboard",
+      "experiences": [
+        "Document Object Model & Libraries"
+      ],
+      "imageSrc": "history/sp.avif",
+      "href": "https://www.88gravity.com/"
+    },
+    {
+      "role": "Course on Computer Concept(CCC)",
+      "organisation": "NIELIT",
+      "experiences": [
+        "Basic OS,MS office,Information Technology & Society"
+      ],
+      "imageSrc": "history/nielit.png",
+      "href": "https://www.88gravity.com/"
+    }
+  ]
