@@ -6,7 +6,11 @@ export const Hero = () => {
   const descriptionRef = useRef(null);
   const buttonRef = useRef(null);
 
-  const sentence = `I am an IT student specializing in full stack development. Proficient in HTML, CSS, JavaScript, Python, and C, excels in creating responsive interfaces and robust backend systems. An SQL expert, skillfully manages databases and uses Django and Flask to build scalable applications.`;
+  const sentence = `I'm a passionate and detail-oriented front-end developer with hands-on experience building responsive, user-friendly web interfaces using HTML, CSS, JavaScript, and React.js. With a background in full-stack development and a growing interest in Python and machine learning, I bring both technical skill and curiosity to every project I work on.
+
+I’m always eager to tackle new challenges, collaborate on impactful solutions, and learn along the way.
+
+Let’s build something great together.`;
 
   useEffect(() => {
     const observer = new IntersectionObserver(

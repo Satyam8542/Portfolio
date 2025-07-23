@@ -19,8 +19,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+                I specialize in building responsive, accessible, and performance-optimized websites. I bring UI designs to life with clean HTML, CSS, JavaScript, and React — ensuring seamless experiences across devices and browsers.
               </p>
             </div>
           </li>
@@ -29,18 +28,25 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+                Skilled in crafting fast, scalable backend systems and APIs. I focus on writing efficient server-side logic that powers robust applications, with attention to security, performance, and integration.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" className={styles.logoabout}/>
+            <img src={getImageUrl("skills/retro (2).png")} alt="UI icon" className={styles.logoabout}/>
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>Team Player with Agile Exposure</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+                Comfortable working in collaborative environments, version control (Git), and agile-based development cycles.
+              </p>
+            </div>
+          </li>
+          <li className={styles.aboutItem}>
+            <img src={getImageUrl("skills/growth.png")} alt="UI icon" className={styles.logoabout}/>
+            <div className={styles.aboutItemText}>
+              <h3>Curious & Growth-Oriented</h3>
+              <p>
+                Passionate about learning, especially in full-stack development and emerging areas like machine learning.
               </p>
             </div>
           </li>

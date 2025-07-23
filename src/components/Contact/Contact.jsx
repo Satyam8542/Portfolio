@@ -27,11 +27,11 @@ export const Contact = () => {
           <a href="https://www.github.com/Satyam8542">Github</a>
         </li>
         <li className={styles.link}>
-          <img src={getImageUrl("skills/instagram (1).png")} alt="Instagram icon" />
+          <img src={getImageUrl("skills/instagram (2).png")} alt="Instagram icon" />
           <a href="https://www.instagram.com/_satyam_srivastava67?igsh=Y2MxMnNjY21ka2gy">Instagram</a>
         </li>
         <li className={styles.link}>
-          <img src={getImageUrl("skills/telephone (1).png")} alt="Contact icon" />
+          <img src={getImageUrl("skills/telephone-symbol-button.png")} alt="Contact icon" />
           <a href="tel:+91 9919273276">Contact No.</a>
         </li>
       </ul>
