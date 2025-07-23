@@ -9,10 +9,12 @@
 
 .title {
   color: var(--color-text);
-  font-size: 35px;
+  font-size: 40px;
   font-weight: 700;
   letter-spacing: 1.75px;
   text-transform: uppercase;
+  text-align: center;
+  margin-top: 3%;
 }
 
 .content {

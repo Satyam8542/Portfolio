@@ -4,7 +4,7 @@ import { getImageUrl } from "../../utils";
 
 export const Education = ({ educationList }) => {
   return (
-    <section className={styles.container}>
+    <section id="educaton" className={styles.container}>
       <h2 className={styles.title}>Education</h2>
       <ul className={styles.educationList}>
         {educationList.map((item, index) => (

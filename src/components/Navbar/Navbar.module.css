@@ -7,14 +7,17 @@
   justify-content: space-between;
   padding-top: 61px;
   z-index: 2;
-  margin: 0 10%;
+  margin: 0 0%;
+  background: linear-gradient(to right, #576CB9, #0b2447);
 }
 
 .title {
-  font-size: 30px;
+  font-size: 50px;
   font-weight: 600;
   text-decoration: none;
   color: var(--color-text);
+  padding-left: 5%;
+  padding-bottom: 3%;
 }
 
 
@@ -24,12 +27,21 @@
 
 .menu {
   display: flex;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 3%;
 }
 
 .menuItems {
   display: flex;
   gap: 47px;
   list-style: none;
+}
+nav li:hover {
+  background-image: linear-gradient(to right, #a2aac9, #006aff);
+  color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .menuItems a {
