@@ -22,5 +22,21 @@
       "skills": ["React", "Express", "Node"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
+    },
+    {
+      "title": "Chat Application",
+      "imageSrc": "projects/chat.png",
+      "description": "Integrated WebSockets to enable instant, bidirectional communication between users. Designed a responsive and intuitive front-end interface using HTML, CSS, and JavaScript for seamless user interaction across devices.",
+      "skills": ["Django,", "WebSockets,", "CSS", "JavaScript","HTML"],
+      "demo": "https://chat-application-1lcu.vercel.app/login",
+      "source": "https://github.com/Satyam8542/Chat-Application"
+    },
+    {
+      "title": "Speak Easy Translator",
+      "imageSrc": "projects/spea.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
     }
   ]
