@@ -24,10 +24,13 @@
   gap: 15px;
   width: 100%;
 }
+
 @media screen and (max-width: 1024px) {
   .container {
     margin-left: 5%;
     margin-right: 5%;
+    flex: 0 0 45%;
+    margin: 1%;
   }
 
   .title {
@@ -43,6 +46,8 @@
   .container {
     margin-left: 3%;
     margin-right: 3%;
+    flex: 0 0 48%;
+    margin: 1%;
   }
 
   .title {
