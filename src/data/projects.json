@@ -27,7 +27,7 @@
       "title": "Chat Application",
       "imageSrc": "projects/chat.png",
       "description": "Integrated WebSockets to enable instant, bidirectional communication between users. Designed a responsive and intuitive front-end interface using HTML, CSS, and JavaScript for seamless user interaction across devices.",
-      "skills": ["Django,", "WebSockets,", "CSS", "JavaScript","HTML"],
+      "skills": ["Django", "WebSockets", "CSS", "JavaScript","HTML"],
       "demo": "https://chat-application-1lcu.vercel.app/login",
       "source": "https://github.com/Satyam8542/Chat-Application"
     },
