@@ -2,7 +2,11 @@
     {
       "role": "Software Developer Intern",
       "organisation": "88 Gravity",
-      "experiences": ["Basics,Data Collection & processing with Python,Function & Files."],
+      "experiences": [" Collaborated on a live PHP-based web application, contributing to front-end development.",
+                      " Converted Figma UI designs into responsive, pixel-perfect front-end interfaces using HTML, CSS, and JavaScript.",
+                    "Ensured cross-browser compatibility and optimized front-end performance for seamless user experience.",
+                  "Gained hands-on experience with version control systems, including Git and GitHub, for collaborative development.",
+                " Followed agile practices and worked closely with senior developers to understand real-world project workflows."],
       "imageSrc": "history/cologo.png",
       "href": "https://www.88gravity.com/"
     }
